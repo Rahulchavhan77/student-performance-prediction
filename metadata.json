@@ -1,0 +1,5 @@
+{
+  "name": "AI Student Performance Monitor",
+  "description": "A simple AI-powered student performance prediction and academic monitoring system with teacher and student dashboards.",
+  "requestFramePermissions": []
+}
